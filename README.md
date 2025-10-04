@@ -8,7 +8,7 @@
 
 
 ## Oracle Badges
-
+[![Oracle Certified Badge](https://github.com/Raiom007/Raiom007/blob/main/OCI25AICFA.jpeg)]
 https://catalog-education.oracle.com/pls/certview/sharebadge?id=4E7F8B08E0ACC35C7D11B6468CAB60CD5C490ED8A7BA365D67D02D40235B4C87
 
 
